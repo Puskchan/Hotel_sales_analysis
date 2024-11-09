@@ -44,7 +44,7 @@ This dashboard is designed to track and analyze data across various aspects of h
 ## 🛠️ Tech Stack
 
 - **Tool**: Microsoft Power BI
-- **Database**: Data sources include (add specific sources if known, e.g., SQL databases, CSV files, API integration for real-time data)
+- **Database**: Data sources include 5 CSV files.
 - **Data Processing**: Aggregation, transformation, and visualization are done through Power BI’s DAX functions and Power Query Editor.
 
 ## 📊 Usage Instructions
