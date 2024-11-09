@@ -1,5 +1,3 @@
-To create a holistic README file, I'll outline a format for your hospitality dashboard based on common business insights one might derive from a dashboard in this industry. Here’s a draft:
-
 ---
 
 # Hospitality Dashboard
